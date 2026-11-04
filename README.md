@@ -6,9 +6,9 @@
 
 **Computer Science**
 
-<img src="https://img.shields.io/badge/DADOS-151515?style=for-the-badge&labelColor=A82020" />
-<img src="https://img.shields.io/badge/PROGRAMAÇÃO-151515?style=for-the-badge&labelColor=A82020" />
-<img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-151515?style=for-the-badge&labelColor=A82020" />
+<img src="https://img.shields.io/badge/DADOS-151515?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROGRAMAÇÃO-151515?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-151515?style=for-the-badge" />
 
 *In constant evolution*
 
@@ -42,23 +42,23 @@ Ferramentas e tecnologias que fazem parte da minha jornada:
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=D94141" />
-<img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=D94141" />
-<img src="https://img.shields.io/badge/SQL-151515?style=for-the-badge&logo=postgresql&logoColor=D94141" />
-<img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=D94141" />
+<img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-151515?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript" />
 
 </div>
 
 **Desenvolvimento Web**
 
-<img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=D94141" />
-<img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=D94141" />
+<img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3" />
 
 **Ferramentas**
 
-<img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=D94141" />
-<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=D94141" />
-<img src="https://img.shields.io/badge/VS_Code-151515?style=for-the-badge&logo=visualstudiocode&logoColor=D94141" />
+<img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS_Code-151515?style=for-the-badge&logo=visualstudiocode" />
 
 ---
 
